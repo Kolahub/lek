@@ -1,0 +1,11 @@
+body{
+				background-color:white;
+}
+.clearfix:after {
+				content:" ";
+				clear : both;
+				display:table;
+}
+
+li {	list-style-type:none;padding:5px;margin:0px;border:1px solid black;float: left ;color:black;font-family:	cursive		;
+}
